@@ -1,0 +1,3711 @@
+{
+    "1": {
+        "abbreviation": "A", 
+        "english name": "Arcopallium", 
+        "functional keyword(s)": [
+            "learning", 
+            "passive avoidance learning", 
+            "taste aversion learning"
+        ], 
+        "id": 1, 
+        "learning": [
+            "learning", 
+            "passive avoidance learning", 
+            "taste aversion learning"
+        ], 
+        "name": "Arcopallium", 
+        "old name": "archistriatum", 
+        "proposed mammalian homologue": "amygdala", 
+        "subregion(s)": [
+            "233", 
+            "125", 
+            "146", 
+            "147", 
+            "232", 
+            "369", 
+            "370", 
+            "371", 
+            "136", 
+            "145"
+        ], 
+        "superregion": "52", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=1&proc=arer"
+    }, 
+    "10": {
+        "abbreviation": "AVT", 
+        "english name": "ventral tegmental area", 
+        "id": 10, 
+        "name": "Area ventralis tegmenti", 
+        "old name": "area ventralis tegmentalis", 
+        "other name(s)": [
+            "area ventralis of Tsai,  A10"
+        ], 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=10&proc=arer"
+    }, 
+    "100": {
+        "abbreviation": "PMH", 
+        "id": 100, 
+        "name": "nucleus medialis hypothalami posterioris", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=100&proc=arer"
+    }, 
+    "101": {
+        "abbreviation": "LA", 
+        "id": 101, 
+        "name": "nucleus lateralis anterior thalami", 
+        "superregion": "51", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=101&proc=arer"
+    }, 
+    "102": {
+        "abbreviation": "TU", 
+        "id": 102, 
+        "name": "nucleus tuberis", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=102&proc=arer"
+    }, 
+    "103": {
+        "abbreviation": "dorsal pallidum", 
+        "id": 103, 
+        "subregion(s)": [
+            "9"
+        ], 
+        "superregion": "57", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=103&proc=arer"
+    }, 
+    "104": {
+        "abbreviation": "ventral pallidum", 
+        "id": 104, 
+        "name": "ventr", 
+        "subregion(s)": [
+            "292"
+        ], 
+        "superregion": "57", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=104&proc=arer"
+    }, 
+    "105": {
+        "abbreviation": "ventral striatum", 
+        "id": 105, 
+        "subregion(s)": [
+            "404", 
+            "156", 
+            "279", 
+            "191", 
+            "183"
+        ], 
+        "superregion": "57", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=105&proc=arer"
+    }, 
+    "106": {
+        "abbreviation": "INP", 
+        "english name": "Nucleus  intrapeduncularis", 
+        "id": 106, 
+        "name": "Nucleus  intrapeduncularis", 
+        "old name": "nucleus intrapeduncularis", 
+        "proposed mammalian homologue": "globus pallidus internus", 
+        "superregion": "9", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=106&proc=arer"
+    }, 
+    "107": {
+        "abbreviation": "SpL", 
+        "id": 107, 
+        "name": "nucleus spiriformis lateralis", 
+        "proposed mammalian homologue": "nucleus cuneiformes", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=107&proc=arer"
+    }, 
+    "108": {
+        "abbreviation": "N", 
+        "english name": "nidopallium", 
+        "id": 108, 
+        "name": "nidopallium", 
+        "old name": "neostriatum", 
+        "subregion(s)": [
+            "265", 
+            "190", 
+            "250", 
+            "408", 
+            "119", 
+            "120", 
+            "123", 
+            "410", 
+            "264", 
+            "140", 
+            "307"
+        ], 
+        "superregion": "59", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=108&proc=arer"
+    }, 
+    "109": {
+        "abbreviation": "E", 
+        "english name": "The entopallial nucleus or  the entopallium", 
+        "id": 109, 
+        "name": "Nucleus entopalliallis", 
+        "old name": "ectostriatum", 
+        "other name(s)": [
+            "entopallium"
+        ], 
+        "subregion(s)": [
+            "115", 
+            "116"
+        ], 
+        "superregion": "123", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=109&proc=arer"
+    }, 
+    "11": {
+        "abbreviation": "SNc or A9", 
+        "english name": "Substantia nigra, pars  compacta or A9", 
+        "id": 11, 
+        "name": "Substantia nigra, pars compacta", 
+        "old abbreviation": "TPc", 
+        "old name": "nucleus tegmenti pedunculi-ponticus pars compacta", 
+        "proposed mammalian homologue": "substantia nigra", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=11&proc=arer"
+    }, 
+    "110": {
+        "abbreviation": "W", 
+        "functional keyword(s)": [
+            "lemnothalamic (thalamofugal) pathway", 
+            "visual pathways"
+        ], 
+        "id": 110, 
+        "lemnothalamic (thalamofugal) pathway": [
+            "lemnothalamic (thalamofugal) pathway", 
+            "visual pathways"
+        ], 
+        "name": "Wulst", 
+        "subregion(s)": [
+            "111", 
+            "365", 
+            "189"
+        ], 
+        "superregion": "55", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=110&proc=arer"
+    }, 
+    "111": {
+        "abbreviation": "HA", 
+        "english name": "Apical part of the  hyperpallium", 
+        "id": 111, 
+        "name": "Hyperpallium apicale", 
+        "old name": "hyperstriatum accessorium", 
+        "subregion(s)": [
+            "114"
+        ], 
+        "superregion": "110", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=111&proc=arer"
+    }, 
+    "112": {
+        "abbreviation": "HD", 
+        "english name": "Densocellular part of the hyperpallium", 
+        "id": 112, 
+        "name": "Hyperpallium densocellulare", 
+        "old name": "hyperstriatum dorsale", 
+        "superregion": "365", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=112&proc=arer"
+    }, 
+    "113": {
+        "abbreviation": "HI", 
+        "english name": "Intercalated part of the hyperpallium", 
+        "id": 113, 
+        "name": "Hyperpallium intercalatum", 
+        "old abbreviation": "HIS", 
+        "old name": "hyperstriatum intercalatus superior - HIS", 
+        "superregion": "365", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=113&proc=arer"
+    }, 
+    "114": {
+        "abbreviation": "IC", 
+        "id": 114, 
+        "name": "nucleus intercalatus", 
+        "superregion": "111", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=114&proc=arer"
+    }, 
+    "115": {
+        "abbreviation": "Ec", 
+        "collothalamic (tectofugal) visual pathway": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "english name": "ectostriatal core", 
+        "functional keyword(s)": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "id": 115, 
+        "name": "ectostriatum pars centralis", 
+        "other name(s)": [
+            "core"
+        ], 
+        "superregion": "109", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=115&proc=arer"
+    }, 
+    "116": {
+        "abbreviation": "Ep", 
+        "english name": "ectostriatal belt", 
+        "id": 116, 
+        "name": "ectostriatum pars peripherialis", 
+        "other name(s)": [
+            "belt"
+        ], 
+        "superregion": "109", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=116&proc=arer"
+    }, 
+    "117": {
+        "abbreviation": "T", 
+        "id": 117, 
+        "name": "nucleus triangularis", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=117&proc=arer"
+    }, 
+    "118": {
+        "abbreviation": "Bas", 
+        "english name": "The basorostral pallial nucleus", 
+        "id": 118, 
+        "name": "Nucleus basorostralis pallii", 
+        "old name": "nucleus basalis", 
+        "subregion(s)": [
+            "257", 
+            "259", 
+            "258"
+        ], 
+        "superregion": "52", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=118&proc=arer"
+    }, 
+    "119": {
+        "abbreviation": "NC", 
+        "english name": "Caudal nidopallium", 
+        "id": 119, 
+        "name": "Nidopallium caudale", 
+        "old name": "neostriatum caudale", 
+        "subregion(s)": [
+            "151", 
+            "188", 
+            "309", 
+            "121"
+        ], 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=119&proc=arer"
+    }, 
+    "12": {
+        "abbreviation": "ME", 
+        "id": 12, 
+        "name": "mesencephalon", 
+        "subregion(s)": [
+            "17", 
+            "12", 
+            "401", 
+            "242", 
+            "277", 
+            "18", 
+            "26"
+        ], 
+        "superregion": "12", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=12&proc=arer"
+    }, 
+    "120": {
+        "abbreviation": "NF", 
+        "english name": "Frontal nidopallium", 
+        "id": 120, 
+        "name": "Nidopallium frontale", 
+        "old name": "neostriatum frontale", 
+        "subregion(s)": [
+            "139", 
+            "196", 
+            "375", 
+            "199", 
+            "122"
+        ], 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=120&proc=arer"
+    }, 
+    "121": {
+        "abbreviation": "NCt", 
+        "id": 121, 
+        "name": "neostriatum caudale pars trigeminale", 
+        "superregion": "119", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=121&proc=arer"
+    }, 
+    "122": {
+        "abbreviation": "NFt", 
+        "id": 122, 
+        "name": "neostriatum frontale pars trigeminale", 
+        "superregion": "120", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=122&proc=arer"
+    }, 
+    "123": {
+        "abbreviation": "NI", 
+        "english name": "Frontal nidopallium", 
+        "id": 123, 
+        "name": "Nidopallium intermedium", 
+        "old name": "neostriatum intermedium", 
+        "subregion(s)": [
+            "109", 
+            "248", 
+            "231", 
+            "344"
+        ], 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=123&proc=arer"
+    }, 
+    "124": {
+        "abbreviation": "TPO", 
+        "english name": "Temporo-parieto-occipital area", 
+        "id": 124, 
+        "name": "Area temporo-parieto-occipitalis", 
+        "old name": "area temporo-parieto-occipita", 
+        "superregion": "56", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=124&proc=arer"
+    }, 
+    "125": {
+        "abbreviation": "AI", 
+        "english name": "Intermediate arcopallium", 
+        "id": 125, 
+        "name": "Arcopallium intermedium", 
+        "old name": "archistriatum intermedium", 
+        "subregion(s)": [
+            "126", 
+            "127"
+        ], 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=125&proc=arer"
+    }, 
+    "126": {
+        "abbreviation": "AD", 
+        "english name": "Dorsal arcopallium", 
+        "id": 126, 
+        "name": "Arcopallium dorsale", 
+        "old abbreviation": "Aid", 
+        "old name": "archistriatum intermedium pars dorsalis", 
+        "other name(s)": [
+            "ArD - PMID: 7615877"
+        ], 
+        "superregion": "125", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=126&proc=arer"
+    }, 
+    "127": {
+        "abbreviation": "Aiv", 
+        "id": 127, 
+        "name": "archistriatum intermedium pars ventralis", 
+        "subregion(s)": [
+            "128", 
+            "129"
+        ], 
+        "superregion": "125", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=127&proc=arer"
+    }, 
+    "128": {
+        "abbreviation": "Aivl", 
+        "id": 128, 
+        "name": "archistriatum intermedium pars ventralis lateralis", 
+        "superregion": "127", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=128&proc=arer"
+    }, 
+    "129": {
+        "abbreviation": "Aivm", 
+        "id": 129, 
+        "name": "archistriatum intermedium pars ventralis medialis", 
+        "superregion": "127", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=129&proc=arer"
+    }, 
+    "13": {
+        "abbreviation": "DE", 
+        "id": 13, 
+        "name": "diencephalon", 
+        "subregion(s)": [
+            "13", 
+            "40", 
+            "39", 
+            "288", 
+            "41", 
+            "38"
+        ], 
+        "superregion": "13", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=13&proc=arer"
+    }, 
+    "130": {
+        "abbreviation": "L1", 
+        "id": 130, 
+        "name": "field L1", 
+        "superregion": "190", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=130&proc=arer"
+    }, 
+    "131": {
+        "abbreviation": "L2a", 
+        "id": 131, 
+        "name": "field L2a", 
+        "superregion": "134", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=131&proc=arer"
+    }, 
+    "132": {
+        "abbreviation": "L2b", 
+        "id": 132, 
+        "name": "field L2b", 
+        "superregion": "134", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=132&proc=arer"
+    }, 
+    "133": {
+        "abbreviation": "L3", 
+        "id": 133, 
+        "name": "field L3", 
+        "superregion": "190", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=133&proc=arer"
+    }, 
+    "134": {
+        "abbreviation": "L2", 
+        "id": 134, 
+        "name": "field L2", 
+        "subregion(s)": [
+            "131", 
+            "132"
+        ], 
+        "superregion": "190", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=134&proc=arer"
+    }, 
+    "135": {
+        "abbreviation": "MLd", 
+        "auditory pathways": [
+            "auditory pathways"
+        ], 
+        "functional keyword(s)": [
+            "auditory pathways"
+        ], 
+        "id": 135, 
+        "name": "nucleus mesencephalicus lateralis pars dorsalis", 
+        "other name(s)": [
+            "central nucleus of torus semicircularis"
+        ], 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=135&proc=arer"
+    }, 
+    "136": {
+        "abbreviation": "RA", 
+        "english name": "Robust nucleus of  arcopallium", 
+        "functional keyword(s)": [
+            "song learning", 
+            "vocal motor pathway, VMP"
+        ], 
+        "id": 136, 
+        "name": "Nucleus robustus  arcopallii", 
+        "old name": "nucleus robustus archistriatalis", 
+        "song learning": [
+            "song learning", 
+            "vocal motor pathway, VMP"
+        ], 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=136&proc=arer"
+    }, 
+    "137": {
+        "abbreviation": "ICo", 
+        "id": 137, 
+        "name": "nucleus intracollicularis", 
+        "subregion(s)": [
+            "246"
+        ], 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=137&proc=arer"
+    }, 
+    "138": {
+        "abbreviation": "X", 
+        "anterior forebrain pathway, afp": [
+            "anterior forebrain pathway, AFP", 
+            "song learning"
+        ], 
+        "english name": "Area X", 
+        "functional keyword(s)": [
+            "anterior forebrain pathway, AFP", 
+            "song learning"
+        ], 
+        "id": 138, 
+        "name": "Area X", 
+        "old name": "area X", 
+        "superregion": "2", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=138&proc=arer"
+    }, 
+    "139": {
+        "abbreviation": "LMAN", 
+        "anterior forebrain pathway, afp": [
+            "anterior forebrain pathway, AFP", 
+            "song learning"
+        ], 
+        "english name": "Lateral magnocellular nucleus of anterior nidopallium", 
+        "functional keyword(s)": [
+            "anterior forebrain pathway, AFP", 
+            "song learning"
+        ], 
+        "id": 139, 
+        "name": "Nucleus lateralis magnocellularis nidopallii anterioris", 
+        "old name": "nucleus magnocellularis pars lateralis", 
+        "superregion": "120", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=139&proc=arer"
+    }, 
+    "14": {
+        "abbreviation": "Cb", 
+        "id": 14, 
+        "name": "cerebellum", 
+        "subregion(s)": [
+            "14", 
+            "168", 
+            "169", 
+            "170", 
+            "348"
+        ], 
+        "superregion": "14", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=14&proc=arer"
+    }, 
+    "140": {
+        "abbreviation": "NPDL", 
+        "id": 140, 
+        "name": "neostriatum posteriodorsolaterale", 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=140&proc=arer"
+    }, 
+    "141": {
+        "abbreviation": "Hp", 
+        "english name": "Hippocampus", 
+        "id": 141, 
+        "name": "Hippocampus", 
+        "old name": "hippocampus", 
+        "proposed mammalian homologue": "Ammons horn", 
+        "subregion(s)": [
+            "358", 
+            "239", 
+            "238", 
+            "240", 
+            "284", 
+            "283"
+        ], 
+        "superregion": "317", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=141&proc=arer"
+    }, 
+    "142": {
+        "abbreviation": "APH", 
+        "english name": "Area parahippocampalis", 
+        "id": 142, 
+        "name": "Area parahippocampalis", 
+        "old name": "area parahippocampalis", 
+        "proposed mammalian homologue": "gyrus dentatus", 
+        "superregion": "317", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=142&proc=arer"
+    }, 
+    "143": {
+        "abbreviation": "SL", 
+        "english name": "Lateral septal nucleus", 
+        "id": 143, 
+        "name": "Nucleus septalis lateralis", 
+        "old name": "nucleus septalis lateralis", 
+        "proposed mammalian homologue": "nucleus septalis lateralis", 
+        "superregion": "58", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=143&proc=arer"
+    }, 
+    "144": {
+        "abbreviation": "SM", 
+        "english name": "Medial septal nucleus", 
+        "id": 144, 
+        "name": "Nucleus septalis medialis", 
+        "old name": "nucleus septalis medialis", 
+        "proposed mammalian homologue": "nucleus septalis medialis", 
+        "superregion": "58", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=144&proc=arer"
+    }, 
+    "145": {
+        "abbreviation": "TnA", 
+        "english name": "Nucleus taeniae of the  amygdala", 
+        "id": 145, 
+        "name": "Nucleus taeniae  amygdalae", 
+        "old abbreviation": "Tn", 
+        "old name": "nucleus taeniae", 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=145&proc=arer"
+    }, 
+    "146": {
+        "abbreviation": "AM", 
+        "english name": "Medial arcopallium", 
+        "id": 146, 
+        "name": "Arcopallium mediale", 
+        "old abbreviation": "Am", 
+        "old name": "archistratum mediale", 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=146&proc=arer"
+    }, 
+    "147": {
+        "abbreviation": "PoA", 
+        "english name": "Posterior pallial  amygdala", 
+        "id": 147, 
+        "name": "Nucleus posterioris  amygdalopallii", 
+        "old abbreviation": "Ap", 
+        "old name": "archistratum posterior", 
+        "other name(s)": [
+            "ArPC - PMID: 7615877"
+        ], 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=147&proc=arer"
+    }, 
+    "148": {
+        "abbreviation": "TD", 
+        "id": 148, 
+        "name": "nucleus tegmenti dorsalis", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=148&proc=arer"
+    }, 
+    "15": {
+        "abbreviation": "MO", 
+        "id": 15, 
+        "name": "medulla oblongata", 
+        "subregion(s)": [
+            "380", 
+            "217", 
+            "252", 
+            "394", 
+            "384", 
+            "396", 
+            "219", 
+            "218", 
+            "15", 
+            "227", 
+            "226", 
+            "293", 
+            "390", 
+            "355", 
+            "160", 
+            "162", 
+            "161", 
+            "163", 
+            "354", 
+            "200", 
+            "391", 
+            "297", 
+            "314"
+        ], 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=15&proc=arer"
+    }, 
+    "151": {
+        "abbreviation": "dNC", 
+        "id": 151, 
+        "name": "neostriatum caudale pars caudale", 
+        "other name(s)": [
+            "dorsocaudal neostriatum complex"
+        ], 
+        "subregion(s)": [
+            "185", 
+            "152", 
+            "153", 
+            "154"
+        ], 
+        "superregion": "119", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=151&proc=arer"
+    }, 
+    "152": {
+        "abbreviation": "Nd", 
+        "id": 152, 
+        "name": "neostriatum dorsale", 
+        "superregion": "151", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=152&proc=arer"
+    }, 
+    "153": {
+        "abbreviation": "Ndc", 
+        "id": 153, 
+        "name": "neostriatum dorsocaudale", 
+        "superregion": "151", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=153&proc=arer"
+    }, 
+    "154": {
+        "abbreviation": "Ndl", 
+        "id": 154, 
+        "name": "neostriatum dorsolaterale", 
+        "superregion": "151", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=154&proc=arer"
+    }, 
+    "155": {
+        "abbreviation": "TeO", 
+        "collothalamic (tectofugal) visual pathway": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "functional keyword(s)": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "id": 155, 
+        "name": "tectum opticum", 
+        "subregion(s)": [
+            "211", 
+            "212", 
+            "213", 
+            "214", 
+            "215", 
+            "216", 
+            "324", 
+            "335", 
+            "336", 
+            "337", 
+            "338", 
+            "339", 
+            "340", 
+            "341", 
+            "325", 
+            "326", 
+            "327", 
+            "328", 
+            "329", 
+            "330", 
+            "363", 
+            "331", 
+            "332", 
+            "333", 
+            "334"
+        ], 
+        "superregion": "18", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=155&proc=arer"
+    }, 
+    "156": {
+        "abbreviation": "NSTL", 
+        "english name": "Lateral part of the bed nucleus of the stria terminalis (LSTM)", 
+        "id": 156, 
+        "name": "Nucleus striae terminalis lateralis", 
+        "old abbreviation": "Ac", 
+        "old name": "nucleus accumbens - formerly", 
+        "proposed mammalian homologue": "Nucleus striae terminalis medialis", 
+        "superregion": "105", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=156&proc=arer"
+    }, 
+    "157": {
+        "abbreviation": "AL", 
+        "id": 157, 
+        "name": "ansa lenticularis", 
+        "subregion(s)": [
+            "158", 
+            "159"
+        ], 
+        "superregion": "45", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=157&proc=arer"
+    }, 
+    "158": {
+        "abbreviation": "STN", 
+        "english name": "Subthalamic nucleus", 
+        "id": 158, 
+        "name": "Nucleus subthalamicus", 
+        "old abbreviation": "ALa", 
+        "old name": "nucleus ansae leticularis anterior", 
+        "proposed mammalian homologue": "nucleus subthalamicus", 
+        "superregion": "157", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=158&proc=arer"
+    }, 
+    "159": {
+        "abbreviation": "ALp", 
+        "id": 159, 
+        "name": "nucleus ansae leticularis posterior", 
+        "superregion": "157", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=159&proc=arer"
+    }, 
+    "160": {
+        "abbreviation": "Rgc", 
+        "id": 160, 
+        "name": "nucleus reticularis gigantocellularis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=160&proc=arer"
+    }, 
+    "161": {
+        "abbreviation": "Rpc", 
+        "id": 161, 
+        "name": "nucleus reticularis parvocellularis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=161&proc=arer"
+    }, 
+    "162": {
+        "abbreviation": "Rmc", 
+        "id": 162, 
+        "name": "nucleus reticularis magnoclellularis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=162&proc=arer"
+    }, 
+    "163": {
+        "abbreviation": "Rpg", 
+        "id": 163, 
+        "name": "nucleus reticularis paragigantocellularis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=163&proc=arer"
+    }, 
+    "164": {
+        "abbreviation": "P", 
+        "id": 164, 
+        "name": "pons", 
+        "subregion(s)": [
+            "353", 
+            "208", 
+            "164", 
+            "351", 
+            "318", 
+            "319", 
+            "243", 
+            "207", 
+            "165", 
+            "167", 
+            "166", 
+            "342", 
+            "206"
+        ], 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=164&proc=arer"
+    }, 
+    "165": {
+        "abbreviation": "RP", 
+        "id": 165, 
+        "name": "nucleus reticularis pontis caudalis", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=165&proc=arer"
+    }, 
+    "166": {
+        "abbreviation": "RPO", 
+        "id": 166, 
+        "name": "nucleus reticularis pontis oralis", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=166&proc=arer"
+    }, 
+    "167": {
+        "abbreviation": "RpaM", 
+        "id": 167, 
+        "name": "nucleus reticularis pontis paramedianus", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=167&proc=arer"
+    }, 
+    "168": {
+        "abbreviation": "CbI", 
+        "id": 168, 
+        "name": "nucleus cerebellaris internus", 
+        "superregion": "14", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=168&proc=arer"
+    }, 
+    "169": {
+        "abbreviation": "CbIM", 
+        "id": 169, 
+        "name": "nucleus cerbellaris intermedius", 
+        "superregion": "14", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=169&proc=arer"
+    }, 
+    "17": {
+        "abbreviation": "isthmus", 
+        "id": 17, 
+        "name": "isthmus", 
+        "other name(s)": [
+            "isthmal tegmentum"
+        ], 
+        "subregion(s)": [
+            "30", 
+            "32", 
+            "31", 
+            "28", 
+            "33", 
+            "27", 
+            "235"
+        ], 
+        "superregion": "12", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=17&proc=arer"
+    }, 
+    "170": {
+        "abbreviation": "CbL", 
+        "id": 170, 
+        "name": "nucleus cerebellaris lateralis", 
+        "superregion": "14", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=170&proc=arer"
+    }, 
+    "171": {
+        "abbreviation": "GT", 
+        "id": 171, 
+        "name": "griseum tectale", 
+        "other name(s)": [
+            "tectal grey"
+        ], 
+        "superregion": "41", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=171&proc=arer"
+    }, 
+    "172": {
+        "abbreviation": "subpretectal complex", 
+        "english name": "subpretectal complex", 
+        "id": 172, 
+        "subregion(s)": [
+            "173", 
+            "174"
+        ], 
+        "superregion": "41", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=172&proc=arer"
+    }, 
+    "173": {
+        "abbreviation": "IPS", 
+        "id": 173, 
+        "name": "nucleus interstitio-pretecto-subpretectalis", 
+        "superregion": "172", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=173&proc=arer"
+    }, 
+    "174": {
+        "abbreviation": "SP", 
+        "id": 174, 
+        "name": "nucleus subpretectalis", 
+        "subregion(s)": [
+            "395"
+        ], 
+        "superregion": "172", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=174&proc=arer"
+    }, 
+    "175": {
+        "abbreviation": "HM", 
+        "id": 175, 
+        "name": "nucleus habenularis medialis", 
+        "superregion": "43", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=175&proc=arer"
+    }, 
+    "176": {
+        "abbreviation": "HL", 
+        "id": 176, 
+        "name": "nucleus habenularis lateralis", 
+        "superregion": "43", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=176&proc=arer"
+    }, 
+    "178": {
+        "abbreviation": "DLPc", 
+        "id": 178, 
+        "name": "nucleus dorsolateralis posterior pars caudalis", 
+        "superregion": "70", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=178&proc=arer"
+    }, 
+    "179": {
+        "abbreviation": "SPO", 
+        "id": 179, 
+        "name": "nucleus semilunaris parovoidalis", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=179&proc=arer"
+    }, 
+    "18": {
+        "abbreviation": "tectum", 
+        "id": 18, 
+        "subregion(s)": [
+            "155", 
+            "25"
+        ], 
+        "superregion": "12", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=18&proc=arer"
+    }, 
+    "180": {
+        "abbreviation": "POA", 
+        "id": 180, 
+        "name": "nucleus preopticus anterior", 
+        "superregion": "389", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=180&proc=arer"
+    }, 
+    "181": {
+        "abbreviation": "POM", 
+        "id": 181, 
+        "name": "nucleus preopticus medialis", 
+        "superregion": "389", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=181&proc=arer"
+    }, 
+    "182": {
+        "abbreviation": "Avm", 
+        "id": 182, 
+        "name": "area ventromedialis thalami", 
+        "proposed mammalian homologue": "nuclei of the fields of Forel", 
+        "superregion": "45", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=182&proc=arer"
+    }, 
+    "183": {
+        "abbreviation": "vLPO", 
+        "id": 183, 
+        "name": "lobus parolfactorius pars ventralis", 
+        "superregion": "105", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=183&proc=arer"
+    }, 
+    "184": {
+        "abbreviation": "Uva", 
+        "id": 184, 
+        "name": "nucleus uvaeformis", 
+        "superregion": "38", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=184&proc=arer"
+    }, 
+    "185": {
+        "abbreviation": "HVC", 
+        "auditory pathways": [
+            "auditory pathways", 
+            "song learning", 
+            "vocal motor pathway, VMP"
+        ], 
+        "english name": "HVC", 
+        "functional keyword(s)": [
+            "auditory pathways", 
+            "song learning", 
+            "vocal motor pathway, VMP"
+        ], 
+        "id": 185, 
+        "name": "HVC", 
+        "old name": "High Vocal Center", 
+        "superregion": "151", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=185&proc=arer"
+    }, 
+    "186": {
+        "abbreviation": "Nif", 
+        "english name": "Nucleus interface of the nidopallium", 
+        "functional keyword(s)": [
+            "song learning", 
+            "vocal motor pathway, VMP"
+        ], 
+        "id": 186, 
+        "name": "Nucleus interfacialis nidopallialis", 
+        "old abbreviation": "NIF", 
+        "old name": "nucleus interfacialis", 
+        "song learning": [
+            "song learning", 
+            "vocal motor pathway, VMP"
+        ], 
+        "subregion(s)": [
+            "186"
+        ], 
+        "superregion": "186", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=186&proc=arer"
+    }, 
+    "187": {
+        "abbreviation": "XXX", 
+        "id": 187, 
+        "name": "unsorted folder", 
+        "subregion(s)": [
+            "187"
+        ], 
+        "superregion": "187", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=187&proc=arer"
+    }, 
+    "188": {
+        "abbreviation": "NCL", 
+        "english name": "Caudolateral nidopallium", 
+        "id": 188, 
+        "name": "Nidopallium caudolaterale", 
+        "old name": "neostriatum caudolaterale", 
+        "proposed mammalian homologue": "prefrontal cortex ?", 
+        "superregion": "119", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=188&proc=arer"
+    }, 
+    "189": {
+        "abbreviation": "IHA", 
+        "id": 189, 
+        "name": "Nucleus interstitialis  hyperpallii apicalis", 
+        "old name": "Nucleus intercalatus hyperstriatum accessorium", 
+        "other name(s)": [
+            "Interstitial part of the  hyperpallium apicale"
+        ], 
+        "superregion": "110", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=189&proc=arer"
+    }, 
+    "190": {
+        "abbreviation": "L", 
+        "auditory pathways": [
+            "auditory pathways"
+        ], 
+        "english name": "Field L", 
+        "functional keyword(s)": [
+            "auditory pathways"
+        ], 
+        "id": 190, 
+        "name": "Area L pallii", 
+        "old name": "field L", 
+        "subregion(s)": [
+            "130", 
+            "134", 
+            "133"
+        ], 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=190&proc=arer"
+    }, 
+    "191": {
+        "abbreviation": "TuO", 
+        "english name": "Olfactory tubercle", 
+        "id": 191, 
+        "name": "Tuberculum olfactorium", 
+        "old abbreviation": "TO", 
+        "old name": "bulbus olfactorius", 
+        "superregion": "105", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=191&proc=arer"
+    }, 
+    "192": {
+        "abbreviation": "DLM", 
+        "anterior forebrain pathway, afp": [
+            "anterior forebrain pathway, AFP", 
+            "song learning"
+        ], 
+        "functional keyword(s)": [
+            "anterior forebrain pathway, AFP", 
+            "song learning"
+        ], 
+        "id": 192, 
+        "name": "nucleus dorsolateralis anterior thalamis, pars medialis", 
+        "other name(s)": [
+            "medial nucleus of the dorsolateral thalamus"
+        ], 
+        "superregion": "80", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=192&proc=arer"
+    }, 
+    "193": {
+        "abbreviation": "SN", 
+        "id": 193, 
+        "name": "substantia nigra", 
+        "subregion(s)": [
+            "194", 
+            "195"
+        ], 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=193&proc=arer"
+    }, 
+    "194": {
+        "abbreviation": "SNc", 
+        "id": 194, 
+        "name": "Substantia nigra, pars compacta", 
+        "other name(s)": [
+            "Nucleus tegmenti-pedunculopontinus, pars compacta"
+        ], 
+        "superregion": "193", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=194&proc=arer"
+    }, 
+    "195": {
+        "abbreviation": "SNr", 
+        "id": 195, 
+        "name": "SNr - Substantia nigra, pars reticulata", 
+        "old name": "substantia nigra, pars lateralis", 
+        "proposed mammalian homologue": "SNr", 
+        "superregion": "193", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=195&proc=arer"
+    }, 
+    "196": {
+        "abbreviation": "MMAN", 
+        "english name": "Medial magnocellular nucleus of anterior nidopallium", 
+        "id": 196, 
+        "name": "Nucleus medialis magnocellularis nidopallii anterioris", 
+        "old name": "Medial magnocellular nucleus of the anterior neostriatum", 
+        "superregion": "120", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=196&proc=arer"
+    }, 
+    "197": {
+        "abbreviation": "NSTL", 
+        "id": 197, 
+        "name": "Nucleus striae terminalis lateralis", 
+        "old name": "Nucleus accumbens - formerly", 
+        "other name(s)": [
+            "Lateral part of the bed nucleus of the stria terminalis"
+        ], 
+        "superregion": "2", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=197&proc=arer"
+    }, 
+    "198": {
+        "abbreviation": "StM", 
+        "functional keyword(s)": [
+            "passive avoidance learning"
+        ], 
+        "id": 198, 
+        "name": "Striatum mediale", 
+        "other name(s)": [
+            "LPO - Lobus parolfactorius - formerly"
+        ], 
+        "passive avoidance learning": [
+            "passive avoidance learning"
+        ], 
+        "superregion": "3", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=198&proc=arer"
+    }, 
+    "199": {
+        "abbreviation": "NFl", 
+        "id": 199, 
+        "name": "Nidopallium frontale, pars lateralis", 
+        "old name": "neostriatum frontale, pars lateralis", 
+        "superregion": "120", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=199&proc=arer"
+    }, 
+    "2": {
+        "abbreviation": "Stm", 
+        "english name": "Medial striatum (MSt)", 
+        "functional keyword(s)": [
+            "passive avoidance learning", 
+            "taste aversion learning"
+        ], 
+        "id": 2, 
+        "name": "Striatum mediale", 
+        "old abbreviation": "LPO", 
+        "old name": "lobus parolfactorius", 
+        "passive avoidance learning": [
+            "passive avoidance learning", 
+            "taste aversion learning"
+        ], 
+        "subregion(s)": [
+            "403", 
+            "376", 
+            "374", 
+            "197", 
+            "138"
+        ], 
+        "superregion": "3", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=2&proc=arer"
+    }, 
+    "20": {
+        "id": 20, 
+        "subregion(s)": [
+            "405", 
+            "406", 
+            "402", 
+            "57"
+        ], 
+        "url": "http://www.behav.org/abcd/abcd.php?id=20&proc=arer"
+    }, 
+    "200": {
+        "abbreviation": "S", 
+        "id": 200, 
+        "name": "nucleus solitarius", 
+        "other name(s)": [
+            "nTS : PMID: 2464007"
+        ], 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=200&proc=arer"
+    }, 
+    "201": {
+        "abbreviation": "VeD", 
+        "id": 201, 
+        "name": "nucleus vestibularis dorsalis", 
+        "superregion": "206", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=201&proc=arer"
+    }, 
+    "202": {
+        "abbreviation": "VeL", 
+        "id": 202, 
+        "name": "nucleus vestibularis lateralis", 
+        "superregion": "206", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=202&proc=arer"
+    }, 
+    "203": {
+        "abbreviation": "VeM", 
+        "id": 203, 
+        "name": "nucleus vestibularis medialis", 
+        "superregion": "206", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=203&proc=arer"
+    }, 
+    "204": {
+        "abbreviation": "VDL", 
+        "id": 204, 
+        "name": "nucleus vestibularis dorsolateralis", 
+        "other name(s)": [
+            "Sanders"
+        ], 
+        "superregion": "206", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=204&proc=arer"
+    }, 
+    "205": {
+        "abbreviation": "VS", 
+        "id": 205, 
+        "name": "nucleus vestibularis superior", 
+        "superregion": "206", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=205&proc=arer"
+    }, 
+    "206": {
+        "abbreviation": "V", 
+        "id": 206, 
+        "name": "nuclei vestibulares", 
+        "subregion(s)": [
+            "204", 
+            "201", 
+            "202", 
+            "203", 
+            "205"
+        ], 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=206&proc=arer"
+    }, 
+    "207": {
+        "abbreviation": "PrV", 
+        "id": 207, 
+        "name": "nucleus sensorius principalis nervi trigemini", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=207&proc=arer"
+    }, 
+    "208": {
+        "abbreviation": "MNV", 
+        "id": 208, 
+        "name": "nucleus motorius nervi trigemini", 
+        "old abbreviation": "MV", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=208&proc=arer"
+    }, 
+    "209": {
+        "abbreviation": "MNV", 
+        "id": 209, 
+        "name": "nucleus mesencephalicus nervi trigemini", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=209&proc=arer"
+    }, 
+    "210": {
+        "abbreviation": "ldOPT", 
+        "id": 210, 
+        "name": "nucleus lateralis dorsalis nuclei optici principales thalami", 
+        "other name(s)": [
+            "DLON-nucleus opticus dorsolateralis thalami"
+        ], 
+        "superregion": "51", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=210&proc=arer"
+    }, 
+    "211": {
+        "abbreviation": "SAC", 
+        "id": 211, 
+        "name": "Stratum Album Centrale", 
+        "other name(s)": [
+            "lamina IV"
+        ], 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=211&proc=arer"
+    }, 
+    "212": {
+        "abbreviation": "SCE", 
+        "id": 212, 
+        "name": "Stratum Cellulare Externum", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=212&proc=arer"
+    }, 
+    "213": {
+        "abbreviation": "SGC", 
+        "collothalamic (tectofugal) visual pathway": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "functional keyword(s)": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "id": 213, 
+        "name": "Stratum Griseum Centrale", 
+        "other name(s)": [
+            "lamina III"
+        ], 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=213&proc=arer"
+    }, 
+    "214": {
+        "abbreviation": "SGFS", 
+        "id": 214, 
+        "name": "Stratum Griseum et Fibrosum Superficiale", 
+        "other name(s)": [
+            "lamina II"
+        ], 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=214&proc=arer"
+    }, 
+    "215": {
+        "abbreviation": "SGP", 
+        "id": 215, 
+        "name": "Stratum Griseum Periventriculare", 
+        "other name(s)": [
+            "lamina V"
+        ], 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=215&proc=arer"
+    }, 
+    "216": {
+        "abbreviation": "SO", 
+        "id": 216, 
+        "name": "Stratum Opticum", 
+        "other name(s)": [
+            "lamina I"
+        ], 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=216&proc=arer"
+    }, 
+    "217": {
+        "abbreviation": "An", 
+        "id": 217, 
+        "name": "nucleus angularis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=217&proc=arer"
+    }, 
+    "218": {
+        "abbreviation": "MC", 
+        "id": 218, 
+        "name": "nucleus magnocellularis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=218&proc=arer"
+    }, 
+    "219": {
+        "abbreviation": "La", 
+        "id": 219, 
+        "name": "nucleus laminaris", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=219&proc=arer"
+    }, 
+    "220": {
+        "abbreviation": "OS", 
+        "id": 220, 
+        "name": "nucleus olivaris superior", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=220&proc=arer"
+    }, 
+    "221": {
+        "abbreviation": "Ll", 
+        "id": 221, 
+        "name": "lemniscus lateralis", 
+        "subregion(s)": [
+            "223", 
+            "256", 
+            "224", 
+            "225"
+        ], 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=221&proc=arer"
+    }, 
+    "222": {
+        "abbreviation": "Lm", 
+        "id": 222, 
+        "name": "lemniscus medialis", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=222&proc=arer"
+    }, 
+    "223": {
+        "abbreviation": "Lld", 
+        "id": 223, 
+        "name": "nucleus lemnisci laterlais pars dorsalis", 
+        "superregion": "221", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=223&proc=arer"
+    }, 
+    "224": {
+        "abbreviation": "Llv", 
+        "id": 224, 
+        "name": "nucleus lemnisci lateralis pars ventralis", 
+        "superregion": "221", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=224&proc=arer"
+    }, 
+    "225": {
+        "abbreviation": "VLV", 
+        "id": 225, 
+        "name": "nucleus ventralis lemnisci lateralis", 
+        "superregion": "221", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=225&proc=arer"
+    }, 
+    "226": {
+        "abbreviation": "SSp", 
+        "english name": "supraspinal nucleus", 
+        "id": 226, 
+        "name": "nucleus supraspinalis", 
+        "old abbreviation": "nXII", 
+        "old name": "nucleus nervi hypoglossi", 
+        "subregion(s)": [
+            "357", 
+            "356"
+        ], 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=226&proc=arer"
+    }, 
+    "227": {
+        "abbreviation": "nVII", 
+        "id": 227, 
+        "name": "nucleus nervi facialis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=227&proc=arer"
+    }, 
+    "228": {
+        "abbreviation": "nMOT", 
+        "id": 228, 
+        "name": "nucleus marginalis tractus optici", 
+        "superregion": "49", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=228&proc=arer"
+    }, 
+    "229": {
+        "abbreviation": "SpRt", 
+        "id": 229, 
+        "name": "nucleus suprarotundus", 
+        "superregion": "51", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=229&proc=arer"
+    }, 
+    "230": {
+        "abbreviation": "SPC", 
+        "id": 230, 
+        "name": "nucleus superficialis parvocellularis", 
+        "superregion": "51", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=230&proc=arer"
+    }, 
+    "231": {
+        "abbreviation": "NIL", 
+        "id": 231, 
+        "name": "neostriatum intermedium pars laterale", 
+        "superregion": "123", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=231&proc=arer"
+    }, 
+    "232": {
+        "abbreviation": "ApST", 
+        "id": 232, 
+        "name": "archistriatum posterior nucleus striae terminalis", 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=232&proc=arer"
+    }, 
+    "233": {
+        "abbreviation": "AA", 
+        "english name": "Anterior arcopallium", 
+        "id": 233, 
+        "name": "Arcopallium anterius", 
+        "old name": "nucleus archistriatalis anterior", 
+        "subregion(s)": [
+            "411"
+        ], 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=233&proc=arer"
+    }, 
+    "234": {
+        "abbreviation": "SRt", 
+        "id": 234, 
+        "name": "nucleus subrotundus", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=234&proc=arer"
+    }, 
+    "235": {
+        "abbreviation": "SC", 
+        "id": 235, 
+        "name": "nucleus subcoeruleus", 
+        "subregion(s)": [
+            "236", 
+            "237"
+        ], 
+        "superregion": "17", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=235&proc=arer"
+    }, 
+    "236": {
+        "abbreviation": "SCd", 
+        "id": 236, 
+        "name": "nucleus subcoeruleus dorsalis", 
+        "superregion": "235", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=236&proc=arer"
+    }, 
+    "237": {
+        "abbreviation": "SCv", 
+        "id": 237, 
+        "name": "nucleus subcoeruleus ventralis", 
+        "superregion": "235", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=237&proc=arer"
+    }, 
+    "238": {
+        "abbreviation": "DMHp", 
+        "id": 238, 
+        "name": "hippocampus pars dorsomediale", 
+        "other name(s)": [
+            "dorsomedial aspect of the hippocampus"
+        ], 
+        "subregion(s)": [
+            "282", 
+            "285"
+        ], 
+        "superregion": "141", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=238&proc=arer"
+    }, 
+    "239": {
+        "abbreviation": "DLHp", 
+        "id": 239, 
+        "name": "hippocampus pars dorsolaterale", 
+        "superregion": "141", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=239&proc=arer"
+    }, 
+    "240": {
+        "abbreviation": "VHp", 
+        "id": 240, 
+        "name": "hippocampus pars ventrale", 
+        "superregion": "141", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=240&proc=arer"
+    }, 
+    "241": {
+        "abbreviation": "EN", 
+        "id": 241, 
+        "name": "centrifugal ectopic neurons", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=241&proc=arer"
+    }, 
+    "242": {
+        "abbreviation": "MRF", 
+        "id": 242, 
+        "name": "formatio reticularis mesencephali", 
+        "subregion(s)": [
+            "276", 
+            "275"
+        ], 
+        "superregion": "12", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=242&proc=arer"
+    }, 
+    "243": {
+        "abbreviation": "PRF", 
+        "id": 243, 
+        "name": "formatio reticularis pontis", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=243&proc=arer"
+    }, 
+    "244": {
+        "abbreviation": "nLC", 
+        "id": 244, 
+        "name": "nucleus linearis caudalis raphe", 
+        "superregion": "27", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=244&proc=arer"
+    }, 
+    "245": {
+        "abbreviation": "MNH", 
+        "id": 245, 
+        "name": "neostriatum mediorostrale/ hyperstriatum", 
+        "subregion(s)": [
+            "245"
+        ], 
+        "superregion": "245", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=245&proc=arer"
+    }, 
+    "246": {
+        "abbreviation": "ICoDM", 
+        "id": 246, 
+        "name": "nucleus intercollicularis pars dorsomedialis", 
+        "superregion": "137", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=246&proc=arer"
+    }, 
+    "247": {
+        "abbreviation": "VMN", 
+        "id": 247, 
+        "name": "nucleus ventromedialis hypothalami", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=247&proc=arer"
+    }, 
+    "248": {
+        "abbreviation": "Ep2", 
+        "id": 248, 
+        "other name(s)": [
+            "neostriatal area surrounding Ep"
+        ], 
+        "superregion": "123", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=248&proc=arer"
+    }, 
+    "249": {
+        "abbreviation": "LMD", 
+        "id": 249, 
+        "name": "lamina medullaris dorsalis", 
+        "superregion": "7", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=249&proc=arer"
+    }, 
+    "25": {
+        "abbreviation": "ToS", 
+        "id": 25, 
+        "name": "torus semicircularis", 
+        "superregion": "18", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=25&proc=arer"
+    }, 
+    "250": {
+        "abbreviation": "MN", 
+        "id": 250, 
+        "name": "neostriatum mediale", 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=250&proc=arer"
+    }, 
+    "251": {
+        "abbreviation": "MV", 
+        "english name": "Ventral mesopallium", 
+        "id": 251, 
+        "name": "Mesopallium ventrale", 
+        "old abbreviation": "HVvl", 
+        "old name": "hyperstriatum ventrale ventrolaterale", 
+        "superregion": "6", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=251&proc=arer"
+    }, 
+    "252": {
+        "abbreviation": "Cn", 
+        "id": 252, 
+        "name": "nucleus centralis medullae oblongatae", 
+        "subregion(s)": [
+            "253", 
+            "254"
+        ], 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=252&proc=arer"
+    }, 
+    "253": {
+        "abbreviation": "Cnd", 
+        "id": 253, 
+        "name": "nucleus centralis medullae oblongatae pars dorsalis", 
+        "superregion": "252", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=253&proc=arer"
+    }, 
+    "254": {
+        "abbreviation": "Cnv", 
+        "id": 254, 
+        "name": "nucleus centralis medullae oblongatae pars ventralis", 
+        "superregion": "252", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=254&proc=arer"
+    }, 
+    "255": {
+        "abbreviation": "CS", 
+        "id": 255, 
+        "name": "nucleus centralis superior", 
+        "superregion": "58", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=255&proc=arer"
+    }, 
+    "256": {
+        "abbreviation": "Lli", 
+        "id": 256, 
+        "name": "nucleus lemnisci laterale intermediale", 
+        "other name(s)": [
+            "intermediate nucleus of lemnisci laterale"
+        ], 
+        "superregion": "221", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=256&proc=arer"
+    }, 
+    "257": {
+        "abbreviation": "Basa", 
+        "id": 257, 
+        "name": "auditory part of nucleus basalis", 
+        "superregion": "118", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=257&proc=arer"
+    }, 
+    "258": {
+        "abbreviation": "Bast", 
+        "id": 258, 
+        "name": "trigeminal part of nucleus basalis", 
+        "superregion": "118", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=258&proc=arer"
+    }, 
+    "259": {
+        "abbreviation": "Bash", 
+        "id": 259, 
+        "name": "hypoglossal part of nucleus basalis", 
+        "superregion": "118", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=259&proc=arer"
+    }, 
+    "26": {
+        "abbreviation": "tegmentum", 
+        "id": 26, 
+        "subregion(s)": [
+            "400", 
+            "10", 
+            "320", 
+            "241", 
+            "260", 
+            "29", 
+            "321", 
+            "221", 
+            "222", 
+            "135", 
+            "209", 
+            "36", 
+            "34", 
+            "35", 
+            "220", 
+            "280", 
+            "37", 
+            "193", 
+            "148", 
+            "11"
+        ], 
+        "superregion": "12", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=26&proc=arer"
+    }, 
+    "260": {
+        "abbreviation": "GCt", 
+        "id": 260, 
+        "name": "substantia grisea centralis", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=260&proc=arer"
+    }, 
+    "262": {
+        "abbreviation": "CPa", 
+        "id": 262, 
+        "name": "commissura pallii", 
+        "subregion(s)": [
+            "263"
+        ], 
+        "superregion": "58", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=262&proc=arer"
+    }, 
+    "263": {
+        "abbreviation": "nCPA", 
+        "id": 263, 
+        "name": "nucleus commissurae pallii", 
+        "superregion": "262", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=263&proc=arer"
+    }, 
+    "264": {
+        "abbreviation": "NMD", 
+        "id": 264, 
+        "name": "neostriatum mediodorsale", 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=264&proc=arer"
+    }, 
+    "265": {
+        "abbreviation": "FL", 
+        "id": 265, 
+        "name": "lateral to field L", 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=265&proc=arer"
+    }, 
+    "266": {
+        "abbreviation": "CDL", 
+        "english name": "Dorsolateral corticoid area", 
+        "id": 266, 
+        "name": "Area corticoidea dorsolateralis", 
+        "old name": "area corticoidae dorsolateralis", 
+        "subregion(s)": [
+            "266"
+        ], 
+        "superregion": "266", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=266&proc=arer"
+    }, 
+    "267": {
+        "abbreviation": "POP", 
+        "id": 267, 
+        "name": "nucleus preopticus periventricularis", 
+        "superregion": "389", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=267&proc=arer"
+    }, 
+    "268": {
+        "abbreviation": "DMN", 
+        "id": 268, 
+        "name": "nucleus dorsomedialis hypothalami", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=268&proc=arer"
+    }, 
+    "269": {
+        "abbreviation": "PHN", 
+        "id": 269, 
+        "name": "nucleus periventricularis hypothalami", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=269&proc=arer"
+    }, 
+    "27": {
+        "abbreviation": "R", 
+        "id": 27, 
+        "name": "nucleus raphes", 
+        "subregion(s)": [
+            "311", 
+            "244", 
+            "312"
+        ], 
+        "superregion": "17", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=27&proc=arer"
+    }, 
+    "270": {
+        "abbreviation": "IH", 
+        "id": 270, 
+        "name": "nucleus inferior hypothalami", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=270&proc=arer"
+    }, 
+    "271": {
+        "abbreviation": "LHy", 
+        "id": 271, 
+        "name": "hypothalamus pars lateralis", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=271&proc=arer"
+    }, 
+    "272": {
+        "abbreviation": "DHA", 
+        "id": 272, 
+        "name": "area dorsalis hypothalami", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=272&proc=arer"
+    }, 
+    "273": {
+        "abbreviation": "PMN", 
+        "id": 273, 
+        "name": "nucleus premammillaris", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=273&proc=arer"
+    }, 
+    "274": {
+        "abbreviation": "PMI", 
+        "id": 274, 
+        "name": "nucleus paramedianus internus thalami", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=274&proc=arer"
+    }, 
+    "275": {
+        "abbreviation": "FRM", 
+        "id": 275, 
+        "name": "formatio reticularis mesencephali pars medialis", 
+        "superregion": "242", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=275&proc=arer"
+    }, 
+    "276": {
+        "abbreviation": "FRL", 
+        "id": 276, 
+        "name": "formatio reticularis mesencephali pars lateralis", 
+        "superregion": "242", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=276&proc=arer"
+    }, 
+    "277": {
+        "abbreviation": "Pap", 
+        "id": 277, 
+        "name": "nucleus papillioformis", 
+        "superregion": "12", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=277&proc=arer"
+    }, 
+    "278": {
+        "abbreviation": "IN", 
+        "id": 278, 
+        "name": "nucleus infundibularis", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=278&proc=arer"
+    }, 
+    "279": {
+        "abbreviation": "BNST", 
+        "id": 279, 
+        "name": "bed nucleus of stria terminalis", 
+        "superregion": "105", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=279&proc=arer"
+    }, 
+    "28": {
+        "abbreviation": "LoC", 
+        "id": 28, 
+        "name": "locus coeruleus", 
+        "subregion(s)": [
+            "398", 
+            "399"
+        ], 
+        "superregion": "17", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=28&proc=arer"
+    }, 
+    "280": {
+        "abbreviation": "PPN", 
+        "id": 280, 
+        "name": "nucleus pedunculo-pontinus", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=280&proc=arer"
+    }, 
+    "281": {
+        "abbreviation": "DLAlr", 
+        "id": 281, 
+        "name": "nucleus dorsolateralis anterior thalami pars lateralis rostralis", 
+        "superregion": "80", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=281&proc=arer"
+    }, 
+    "282": {
+        "abbreviation": "DMdHp", 
+        "id": 282, 
+        "superregion": "238", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=282&proc=arer"
+    }, 
+    "283": {
+        "abbreviation": "VMHp", 
+        "id": 283, 
+        "superregion": "141", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=283&proc=arer"
+    }, 
+    "284": {
+        "abbreviation": "VLHp", 
+        "id": 284, 
+        "superregion": "141", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=284&proc=arer"
+    }, 
+    "285": {
+        "abbreviation": "DMvHp", 
+        "id": 285, 
+        "superregion": "238", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=285&proc=arer"
+    }, 
+    "286": {
+        "abbreviation": "PPM", 
+        "id": 286, 
+        "name": "nucleus preopticus paraventricularis magnocellularis", 
+        "superregion": "389", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=286&proc=arer"
+    }, 
+    "287": {
+        "abbreviation": "So", 
+        "id": 287, 
+        "name": "nucleus supraopticus", 
+        "subregion(s)": [
+            "92", 
+            "93"
+        ], 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=287&proc=arer"
+    }, 
+    "288": {
+        "abbreviation": "nBOR", 
+        "id": 288, 
+        "name": "nucleus radix optici basalis", 
+        "subregion(s)": [
+            "290", 
+            "289", 
+            "291"
+        ], 
+        "superregion": "13", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=288&proc=arer"
+    }, 
+    "289": {
+        "abbreviation": "nBORl", 
+        "id": 289, 
+        "name": "nucleus radix optici basalis pars lateralis", 
+        "superregion": "288", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=289&proc=arer"
+    }, 
+    "29": {
+        "abbreviation": "IO", 
+        "id": 29, 
+        "name": "nucleus isthmo-opticus", 
+        "other name(s)": [
+            "ION"
+        ], 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=29&proc=arer"
+    }, 
+    "290": {
+        "abbreviation": "nBORd", 
+        "id": 290, 
+        "name": "nucleus radix optici basalis pars dorsalis", 
+        "superregion": "288", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=290&proc=arer"
+    }, 
+    "291": {
+        "abbreviation": "nBORv", 
+        "id": 291, 
+        "name": "nucleus radix optici basalis pars ventralis", 
+        "other name(s)": [
+            "nBORp - nucleus radix optici basalis proper"
+        ], 
+        "superregion": "288", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=291&proc=arer"
+    }, 
+    "292": {
+        "abbreviation": "PVt", 
+        "english name": "Ventral pallidum", 
+        "id": 292, 
+        "name": "Pallidum ventrale", 
+        "old abbreviation": "VP", 
+        "old name": "paleostriatum ventrale", 
+        "proposed mammalian homologue": "elements of GPL and GPM", 
+        "superregion": "104", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=292&proc=arer"
+    }, 
+    "293": {
+        "abbreviation": "OI", 
+        "id": 293, 
+        "name": "nucleus olivarius inferior", 
+        "subregion(s)": [
+            "298"
+        ], 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=293&proc=arer"
+    }, 
+    "294": {
+        "abbreviation": "SpM", 
+        "id": 294, 
+        "name": "nucleus spiriformis medialis", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=294&proc=arer"
+    }, 
+    "295": {
+        "abbreviation": "CE", 
+        "id": 295, 
+        "name": "nucleus cuneatus externus", 
+        "superregion": "394", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=295&proc=arer"
+    }, 
+    "296": {
+        "abbreviation": "GC", 
+        "id": 296, 
+        "name": "nucleus gracilis et cuneatus", 
+        "subregion(s)": [
+            "393"
+        ], 
+        "superregion": "394", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=296&proc=arer"
+    }, 
+    "297": {
+        "abbreviation": "ST", 
+        "id": 297, 
+        "name": "nucleus subtrigeminalis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=297&proc=arer"
+    }, 
+    "298": {
+        "abbreviation": "mcOI", 
+        "id": 298, 
+        "name": "medial column nuclei olivaius inferioris", 
+        "superregion": "293", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=298&proc=arer"
+    }, 
+    "299": {
+        "abbreviation": "RSd", 
+        "id": 299, 
+        "name": "nucleus reticularis superior pars dorsalis", 
+        "superregion": "303", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=299&proc=arer"
+    }, 
+    "3": {
+        "abbreviation": "dorsal striatum", 
+        "id": 3, 
+        "subregion(s)": [
+            "2", 
+            "8", 
+            "198"
+        ], 
+        "superregion": "57", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=3&proc=arer"
+    }, 
+    "30": {
+        "abbreviation": "Imc", 
+        "id": 30, 
+        "name": "nucleus isthmi pars magnocellularis", 
+        "superregion": "17", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=30&proc=arer"
+    }, 
+    "300": {
+        "abbreviation": "VIA", 
+        "id": 300, 
+        "name": "area ventrointermedialis", 
+        "proposed mammalian homologue": "motor part of mammalian ventral tier", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=300&proc=arer"
+    }, 
+    "301": {
+        "abbreviation": "SCe", 
+        "id": 301, 
+        "name": "stratum cellulare externum", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=301&proc=arer"
+    }, 
+    "302": {
+        "abbreviation": "SCi", 
+        "id": 302, 
+        "name": "stratum cellulare internum", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=302&proc=arer"
+    }, 
+    "303": {
+        "abbreviation": "RS", 
+        "id": 303, 
+        "name": "nucleus reticularis superior", 
+        "subregion(s)": [
+            "299", 
+            "304"
+        ], 
+        "superregion": "45", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=303&proc=arer"
+    }, 
+    "304": {
+        "abbreviation": "RSv", 
+        "id": 304, 
+        "name": "nucleus reticularis superior pars ventralis", 
+        "superregion": "303", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=304&proc=arer"
+    }, 
+    "305": {
+        "abbreviation": "SHM", 
+        "id": 305, 
+        "name": "nucleus subhabenularis medialis", 
+        "superregion": "43", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=305&proc=arer"
+    }, 
+    "306": {
+        "abbreviation": "SHL", 
+        "id": 306, 
+        "name": "nucleus subhabenularis lateralis", 
+        "superregion": "43", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=306&proc=arer"
+    }, 
+    "307": {
+        "abbreviation": "pHVC", 
+        "id": 307, 
+        "name": "paraHVC", 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=307&proc=arer"
+    }, 
+    "308": {
+        "abbreviation": "PV", 
+        "id": 308, 
+        "name": "nucleus posteroventralis thalami", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=308&proc=arer"
+    }, 
+    "309": {
+        "abbreviation": "NCM", 
+        "english name": "Caudal medial  nidopallium", 
+        "functional keyword(s)": [
+            "song perception"
+        ], 
+        "id": 309, 
+        "name": "Nidopallium  caudomediale", 
+        "old abbreviation": "Ncm", 
+        "old name": "neostriatum caudomediale", 
+        "song perception": [
+            "song perception"
+        ], 
+        "superregion": "119", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=309&proc=arer"
+    }, 
+    "31": {
+        "abbreviation": "Ipc", 
+        "id": 31, 
+        "name": "nucleus isthmi pars parvocellularis", 
+        "superregion": "17", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=31&proc=arer"
+    }, 
+    "310": {
+        "abbreviation": "CMM", 
+        "english name": "Caudomedial  mesopallium", 
+        "functional keyword(s)": [
+            "song perception"
+        ], 
+        "id": 310, 
+        "name": "Mesopallium  caudomediale", 
+        "old abbreviation": "cmHV", 
+        "old name": "hyperstriatum ventrale caudomediale", 
+        "song perception": [
+            "song perception"
+        ], 
+        "superregion": "6", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=310&proc=arer"
+    }, 
+    "311": {
+        "abbreviation": "MR", 
+        "id": 311, 
+        "name": "nucleus medialis raphe", 
+        "superregion": "27", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=311&proc=arer"
+    }, 
+    "312": {
+        "abbreviation": "PMR", 
+        "id": 312, 
+        "name": "nucleus paramedianus raphe", 
+        "superregion": "27", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=312&proc=arer"
+    }, 
+    "313": {
+        "abbreviation": "DLPr", 
+        "id": 313, 
+        "name": "nucleus dorsolateralis posterior thalami pars rostralis", 
+        "superregion": "70", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=313&proc=arer"
+    }, 
+    "314": {
+        "abbreviation": "TTD", 
+        "id": 314, 
+        "name": "nucleus tractus descendens trigemini", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=314&proc=arer"
+    }, 
+    "315": {
+        "abbreviation": "VMP", 
+        "id": 315, 
+        "name": "nucleus ventromedialis posterior thalami", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=315&proc=arer"
+    }, 
+    "316": {
+        "abbreviation": "retina", 
+        "id": 316, 
+        "subregion(s)": [
+            "316"
+        ], 
+        "superregion": "316", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=316&proc=arer"
+    }, 
+    "317": {
+        "abbreviation": "HpC", 
+        "id": 317, 
+        "name": "hippocampal complex", 
+        "subregion(s)": [
+            "142", 
+            "372", 
+            "141"
+        ], 
+        "superregion": "54", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=317&proc=arer"
+    }, 
+    "318": {
+        "abbreviation": "PL", 
+        "id": 318, 
+        "name": "nucleus pontis lateralis", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=318&proc=arer"
+    }, 
+    "319": {
+        "abbreviation": "PM", 
+        "id": 319, 
+        "name": "nucleus pontis medialis", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=319&proc=arer"
+    }, 
+    "32": {
+        "abbreviation": "IP", 
+        "id": 32, 
+        "name": "nucleus interpeduncularis", 
+        "superregion": "17", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=32&proc=arer"
+    }, 
+    "320": {
+        "abbreviation": "D", 
+        "id": 320, 
+        "name": "nucleus oculomotorius accesorius", 
+        "other name(s)": [
+            "Darkschewitsch"
+        ], 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=320&proc=arer"
+    }, 
+    "321": {
+        "abbreviation": "IS", 
+        "id": 321, 
+        "name": "nucleus interstitalis of Cajal", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=321&proc=arer"
+    }, 
+    "322": {
+        "abbreviation": "LMm", 
+        "id": 322, 
+        "name": "nucleus lentiformis mesencephali pars medialis", 
+        "superregion": "60", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=322&proc=arer"
+    }, 
+    "323": {
+        "abbreviation": "LMl", 
+        "id": 323, 
+        "name": "nucleus lentiformis mesencephali pars lateralis", 
+        "superregion": "60", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=323&proc=arer"
+    }, 
+    "324": {
+        "abbreviation": "TeO1", 
+        "id": 324, 
+        "name": "tectum opticum lamina 1", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=324&proc=arer"
+    }, 
+    "325": {
+        "abbreviation": "TeO2", 
+        "id": 325, 
+        "name": "tectum opticum lamina 2", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=325&proc=arer"
+    }, 
+    "326": {
+        "abbreviation": "TeO3", 
+        "id": 326, 
+        "name": "tectum opticum lamina 3", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=326&proc=arer"
+    }, 
+    "327": {
+        "abbreviation": "TeO4a", 
+        "id": 327, 
+        "name": "tectum opticum lamina 4a", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=327&proc=arer"
+    }, 
+    "328": {
+        "abbreviation": "TeO4b", 
+        "id": 328, 
+        "name": "tectum opticum lamina 4b", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=328&proc=arer"
+    }, 
+    "329": {
+        "abbreviation": "TeO4c", 
+        "id": 329, 
+        "name": "tectum opticum lamina 4c", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=329&proc=arer"
+    }, 
+    "33": {
+        "abbreviation": "nIV", 
+        "id": 33, 
+        "name": "nucleus nervi trochlearis", 
+        "superregion": "17", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=33&proc=arer"
+    }, 
+    "330": {
+        "abbreviation": "TeO5a", 
+        "id": 330, 
+        "name": "tectum opticum lamina 5a", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=330&proc=arer"
+    }, 
+    "331": {
+        "abbreviation": "TeO6", 
+        "id": 331, 
+        "name": "tectum opticum lamina 6", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=331&proc=arer"
+    }, 
+    "332": {
+        "abbreviation": "TeO7", 
+        "id": 332, 
+        "name": "tectum opticum lamina 7", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=332&proc=arer"
+    }, 
+    "333": {
+        "abbreviation": "TeO8", 
+        "id": 333, 
+        "name": "tectum opticum lamina 8", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=333&proc=arer"
+    }, 
+    "334": {
+        "abbreviation": "TeO9", 
+        "id": 334, 
+        "name": "tectum opticum lamina 9", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=334&proc=arer"
+    }, 
+    "335": {
+        "abbreviation": "TeO10", 
+        "id": 335, 
+        "name": "tectum opticum lamina 10", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=335&proc=arer"
+    }, 
+    "336": {
+        "abbreviation": "TeO11", 
+        "id": 336, 
+        "name": "tectum opticum lamina 11", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=336&proc=arer"
+    }, 
+    "337": {
+        "abbreviation": "TeO12", 
+        "id": 337, 
+        "name": "tectum opticum lamina 12", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=337&proc=arer"
+    }, 
+    "338": {
+        "abbreviation": "TeO13a", 
+        "id": 338, 
+        "name": "tectum opticum lamina 13a", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=338&proc=arer"
+    }, 
+    "339": {
+        "abbreviation": "TeO13b", 
+        "id": 339, 
+        "name": "tectum opticum lamina 13b", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=339&proc=arer"
+    }, 
+    "34": {
+        "abbreviation": "OMd", 
+        "id": 34, 
+        "name": "nucleus nervi oculomotorii pars dorsalis", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=34&proc=arer"
+    }, 
+    "340": {
+        "abbreviation": "TeO14SAC", 
+        "id": 340, 
+        "name": "tectum opticum lamina 14SAC", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=340&proc=arer"
+    }, 
+    "341": {
+        "abbreviation": "TeO15", 
+        "id": 341, 
+        "name": "tectum opticum lamina 15", 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=341&proc=arer"
+    }, 
+    "342": {
+        "abbreviation": "Ta", 
+        "id": 342, 
+        "name": "nucleus tangentialis (Cajal)", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=342&proc=arer"
+    }, 
+    "343": {
+        "abbreviation": "Cpi", 
+        "english name": "Piriform cortex", 
+        "id": 343, 
+        "name": "Cortex piriformis", 
+        "old abbreviation": "CPi", 
+        "old name": "cortex piriformis", 
+        "subregion(s)": [
+            "343"
+        ], 
+        "superregion": "343", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=343&proc=arer"
+    }, 
+    "344": {
+        "abbreviation": "NIM", 
+        "id": 344, 
+        "name": "neostriatum intermediale pars mediale", 
+        "superregion": "123", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=344&proc=arer"
+    }, 
+    "345": {
+        "abbreviation": "MD", 
+        "english name": "Dorsal mesopallium", 
+        "id": 345, 
+        "name": "Mesopallium dorsale", 
+        "old abbreviation": "HVdv", 
+        "old name": "hyperstriatum ventrale dorsoventrale", 
+        "superregion": "6", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=345&proc=arer"
+    }, 
+    "346": {
+        "abbreviation": "VIP", 
+        "id": 346, 
+        "other name(s)": [
+            "ventrointermediate area of posterior nuclei"
+        ], 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=346&proc=arer"
+    }, 
+    "347": {
+        "abbreviation": "Va", 
+        "id": 347, 
+        "name": "vallecula", 
+        "superregion": "59", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=347&proc=arer"
+    }, 
+    "348": {
+        "abbreviation": "VCb", 
+        "id": 348, 
+        "name": "vestibulocerebellum", 
+        "superregion": "14", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=348&proc=arer"
+    }, 
+    "349": {
+        "abbreviation": "LPC", 
+        "id": 349, 
+        "name": "nucleus laminaris precommissuralis", 
+        "superregion": "41", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=349&proc=arer"
+    }, 
+    "35": {
+        "abbreviation": "OMv", 
+        "id": 35, 
+        "name": "nucleus nervi oculomotorii pars ventralis", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=35&proc=arer"
+    }, 
+    "350": {
+        "abbreviation": "PPC", 
+        "id": 350, 
+        "name": "nucleus principalis precommissuralis", 
+        "superregion": "41", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=350&proc=arer"
+    }, 
+    "351": {
+        "abbreviation": "PB", 
+        "id": 351, 
+        "name": "nucleus parabrachialis", 
+        "subregion(s)": [
+            "381", 
+            "383", 
+            "382", 
+            "352"
+        ], 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=351&proc=arer"
+    }, 
+    "352": {
+        "abbreviation": "PBvl", 
+        "id": 352, 
+        "name": "nucleus parabrachialis pars ventrolateralis", 
+        "superregion": "351", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=352&proc=arer"
+    }, 
+    "353": {
+        "abbreviation": "IOS", 
+        "id": 353, 
+        "name": "nucleus infraolivaris superior", 
+        "superregion": "164", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=353&proc=arer"
+    }, 
+    "354": {
+        "abbreviation": "RVL", 
+        "id": 354, 
+        "name": "nucleus rostralis ventrolateralis medullae", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=354&proc=arer"
+    }, 
+    "355": {
+        "abbreviation": "RAm", 
+        "id": 355, 
+        "name": "nucleus retroambigualis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=355&proc=arer"
+    }, 
+    "356": {
+        "abbreviation": "nXIIts", 
+        "id": 356, 
+        "name": "nXII pars tracheosyringealis", 
+        "superregion": "226", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=356&proc=arer"
+    }, 
+    "357": {
+        "abbreviation": "nXIIl", 
+        "id": 357, 
+        "name": "nXII pars lingualis", 
+        "superregion": "226", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=357&proc=arer"
+    }, 
+    "358": {
+        "abbreviation": "DHp", 
+        "id": 358, 
+        "name": "hippocampus dorsale from PMID: 11977120", 
+        "subregion(s)": [
+            "359", 
+            "362"
+        ], 
+        "superregion": "141", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=358&proc=arer"
+    }, 
+    "359": {
+        "abbreviation": "DHHp", 
+        "id": 359, 
+        "name": "hippocampus dorsale V-shaped area from PMID: 11977120", 
+        "subregion(s)": [
+            "361", 
+            "360"
+        ], 
+        "superregion": "358", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=359&proc=arer"
+    }, 
+    "36": {
+        "abbreviation": "ODL", 
+        "id": 36, 
+        "name": "nucleus nervi oculomotorii pars dorsolateralis", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=36&proc=arer"
+    }, 
+    "360": {
+        "abbreviation": "DHmHp", 
+        "id": 360, 
+        "name": "medial limb of hippocampus dorsale v-shaped from PMID: 11977120", 
+        "superregion": "359", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=360&proc=arer"
+    }, 
+    "361": {
+        "abbreviation": "DHlHp", 
+        "id": 361, 
+        "name": "lateral limb of DHHp from PMID: 11977120", 
+        "superregion": "359", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=361&proc=arer"
+    }, 
+    "362": {
+        "abbreviation": "DHtHp", 
+        "id": 362, 
+        "name": "hippocampus dorsale pars triangulare from PMID: 11977120", 
+        "superregion": "358", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=362&proc=arer"
+    }, 
+    "363": {
+        "abbreviation": "TeO5b", 
+        "id": 363, 
+        "superregion": "155", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=363&proc=arer"
+    }, 
+    "364": {
+        "abbreviation": "EM", 
+        "id": 364, 
+        "name": "nucleus ectomammillaris", 
+        "subregion(s)": [
+            "364"
+        ], 
+        "superregion": "364", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=364&proc=arer"
+    }, 
+    "365": {
+        "abbreviation": "HIS/HD", 
+        "id": 365, 
+        "subregion(s)": [
+            "112", 
+            "113"
+        ], 
+        "superregion": "110", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=365&proc=arer"
+    }, 
+    "366": {
+        "abbreviation": "Ovshell", 
+        "id": 366, 
+        "name": "shell region of the nucelus ovoidalis", 
+        "subregion(s)": [
+            "385", 
+            "387", 
+            "388", 
+            "386"
+        ], 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=366&proc=arer"
+    }, 
+    "367": {
+        "abbreviation": "ION", 
+        "id": 367, 
+        "name": "nucleus isthmo-opticus", 
+        "subregion(s)": [
+            "367"
+        ], 
+        "superregion": "367", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=367&proc=arer"
+    }, 
+    "368": {
+        "abbreviation": "ECR", 
+        "id": 368, 
+        "name": "ectopic cell region", 
+        "subregion(s)": [
+            "368"
+        ], 
+        "superregion": "368", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=368&proc=arer"
+    }, 
+    "369": {
+        "abbreviation": "ArC", 
+        "id": 369, 
+        "name": "archistriatum centrale= Aiv + AA", 
+        "other name(s)": [
+            "PMID: 7615877"
+        ], 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=369&proc=arer"
+    }, 
+    "37": {
+        "abbreviation": "Ru", 
+        "id": 37, 
+        "name": "nucleus ruber", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=37&proc=arer"
+    }, 
+    "370": {
+        "abbreviation": "ArM", 
+        "id": 370, 
+        "name": "archistriatum mediale", 
+        "other name(s)": [
+            "PMID: 7615877"
+        ], 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=370&proc=arer"
+    }, 
+    "371": {
+        "abbreviation": "ArV", 
+        "id": 371, 
+        "name": "archistriatum ventrale", 
+        "other name(s)": [
+            "rostral Ap - PMID: 7615877"
+        ], 
+        "superregion": "1", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=371&proc=arer"
+    }, 
+    "372": {
+        "abbreviation": "APrH", 
+        "id": 372, 
+        "name": "area prehippocmpalis", 
+        "proposed mammalian homologue": "gyrus cinguli", 
+        "superregion": "317", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=372&proc=arer"
+    }, 
+    "373": {
+        "abbreviation": "PE", 
+        "id": 373, 
+        "name": "pallium externum", 
+        "superregion": "52", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=373&proc=arer"
+    }, 
+    "374": {
+        "abbreviation": "mLPO", 
+        "id": 374, 
+        "name": "lobus parolfactorius pars medialis", 
+        "superregion": "2", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=374&proc=arer"
+    }, 
+    "375": {
+        "abbreviation": "NFf", 
+        "id": 375, 
+        "name": "neostriatum frontale pars frontale", 
+        "superregion": "120", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=375&proc=arer"
+    }, 
+    "376": {
+        "abbreviation": "lLPO", 
+        "id": 376, 
+        "name": "lobus parolfactorius pars lateralis", 
+        "superregion": "2", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=376&proc=arer"
+    }, 
+    "377": {
+        "abbreviation": "cPA", 
+        "id": 377, 
+        "name": "paleostriatum augmentatum pars centrale", 
+        "superregion": "8", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=377&proc=arer"
+    }, 
+    "378": {
+        "abbreviation": "lPA", 
+        "id": 378, 
+        "name": "paleostriatum augmentatum pars laterale", 
+        "superregion": "8", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=378&proc=arer"
+    }, 
+    "379": {
+        "abbreviation": "mPA", 
+        "id": 379, 
+        "name": "paleostriatum augmentatum pars medialis", 
+        "superregion": "8", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=379&proc=arer"
+    }, 
+    "38": {
+        "abbreviation": "thalamus", 
+        "id": 38, 
+        "name": "thalamus", 
+        "subregion(s)": [
+            "44", 
+            "184", 
+            "45"
+        ], 
+        "superregion": "13", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=38&proc=arer"
+    }, 
+    "380": {
+        "abbreviation": "Amb", 
+        "id": 380, 
+        "name": "nucleus ambiguus", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=380&proc=arer"
+    }, 
+    "381": {
+        "abbreviation": "PBdl", 
+        "id": 381, 
+        "name": "nucleus parabrachialis pars dorsolateralis", 
+        "superregion": "351", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=381&proc=arer"
+    }, 
+    "382": {
+        "abbreviation": "PBsl", 
+        "id": 382, 
+        "name": "nucleus parabrachialis pars superficialis", 
+        "superregion": "351", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=382&proc=arer"
+    }, 
+    "383": {
+        "abbreviation": "PBm", 
+        "id": 383, 
+        "name": "nucleus parabrachialis pars medialis", 
+        "other name(s)": [
+            "principal trigeminal nucleus"
+        ], 
+        "superregion": "351", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=383&proc=arer"
+    }, 
+    "384": {
+        "abbreviation": "DMNX", 
+        "id": 384, 
+        "name": "nucleus dorsalis motorius nervi vagi", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=384&proc=arer"
+    }, 
+    "385": {
+        "abbreviation": "Ova", 
+        "id": 385, 
+        "name": "ovshell anterior", 
+        "superregion": "366", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=385&proc=arer"
+    }, 
+    "386": {
+        "abbreviation": "ovp", 
+        "id": 386, 
+        "name": "ovshell posterior", 
+        "superregion": "366", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=386&proc=arer"
+    }, 
+    "387": {
+        "abbreviation": "Ovl", 
+        "id": 387, 
+        "name": "ovshell lateralis", 
+        "superregion": "366", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=387&proc=arer"
+    }, 
+    "388": {
+        "abbreviation": "Ovm", 
+        "id": 388, 
+        "name": "ovshell medialis", 
+        "superregion": "366", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=388&proc=arer"
+    }, 
+    "389": {
+        "abbreviation": "PO", 
+        "id": 389, 
+        "name": "nuclei preoptici", 
+        "subregion(s)": [
+            "180", 
+            "181", 
+            "267", 
+            "286"
+        ], 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=389&proc=arer"
+    }, 
+    "39": {
+        "abbreviation": "hypothalamus", 
+        "english name": "hypothalamus", 
+        "id": 39, 
+        "subregion(s)": [
+            "98", 
+            "86", 
+            "272", 
+            "268", 
+            "270", 
+            "278", 
+            "271", 
+            "96", 
+            "97", 
+            "87", 
+            "269", 
+            "99", 
+            "100", 
+            "273", 
+            "389", 
+            "95", 
+            "301", 
+            "302", 
+            "94", 
+            "287", 
+            "102", 
+            "247"
+        ], 
+        "superregion": "13", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=39&proc=arer"
+    }, 
+    "390": {
+        "abbreviation": "PAm", 
+        "id": 390, 
+        "name": "nucleus parambigualis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=390&proc=arer"
+    }, 
+    "391": {
+        "abbreviation": "SH", 
+        "id": 391, 
+        "name": "area suprahypoglossalis", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=391&proc=arer"
+    }, 
+    "392": {
+        "abbreviation": "wing", 
+        "id": 392, 
+        "subregion(s)": [
+            "392"
+        ], 
+        "superregion": "392", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=392&proc=arer"
+    }, 
+    "393": {
+        "abbreviation": "Cu", 
+        "id": 393, 
+        "name": "nucleus cuneatus", 
+        "superregion": "296", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=393&proc=arer"
+    }, 
+    "394": {
+        "abbreviation": "DCN", 
+        "id": 394, 
+        "name": "dorsal column and external cuneate nuclei", 
+        "subregion(s)": [
+            "295", 
+            "296"
+        ], 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=394&proc=arer"
+    }, 
+    "395": {
+        "abbreviation": "SPcd", 
+        "id": 395, 
+        "name": "nucleus subpretectalis pars caudalis", 
+        "superregion": "174", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=395&proc=arer"
+    }, 
+    "396": {
+        "abbreviation": "nXII", 
+        "english name": "Hypoglossal nucleus?the  12th cranial nerve  nucleus (nXII)", 
+        "id": 396, 
+        "name": "Nucleus nervi hypoglossi  (nXII)Nucleus nervi hypoglossi  (nXII)", 
+        "old abbreviation": "IM", 
+        "old name": "nucleus intermedius medullae", 
+        "superregion": "15", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=396&proc=arer"
+    }, 
+    "398": {
+        "abbreviation": "LoC", 
+        "english name": "Locus coeruleus or A6", 
+        "id": 398, 
+        "name": "Locus coeruleus", 
+        "old abbreviation": "cLoC", 
+        "old name": "locus coeruleus caudalis", 
+        "superregion": "28", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=398&proc=arer"
+    }, 
+    "399": {
+        "abbreviation": "A8", 
+        "english name": "A8", 
+        "id": 399, 
+        "name": "none", 
+        "old abbreviation": "rLoC", 
+        "old name": "locus coeruleus rostralis", 
+        "superregion": "28", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=399&proc=arer"
+    }, 
+    "40": {
+        "abbreviation": "epithalamus", 
+        "id": 40, 
+        "subregion(s)": [
+            "67", 
+            "43"
+        ], 
+        "superregion": "13", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=40&proc=arer"
+    }, 
+    "400": {
+        "abbreviation": "SNr", 
+        "english name": "Sunstantia nigra, pars reticulata", 
+        "id": 400, 
+        "name": "Substantia nigra, pars reticulata", 
+        "old name": "nucleus tegmenti pedunculo-pontinus, pars lateralis (+ small surrounding region)", 
+        "superregion": "26", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=400&proc=arer"
+    }, 
+    "401": {
+        "abbreviation": "PPT", 
+        "english name": "Pedunculopontine  tegmental nucleus", 
+        "id": 401, 
+        "name": "Nucleus  pedunculopontinus  tegmenti", 
+        "old abbreviation": "MPv", 
+        "old name": "nucleus profundus  mesencephali pars  ventralis", 
+        "superregion": "12", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=401&proc=arer"
+    }, 
+    "402": {
+        "abbreviation": "StMm", 
+        "english name": "Magnocellular part of  medial striatum  (MStm)", 
+        "id": 402, 
+        "name": "Striatum mediale, pars  magnocellularis", 
+        "old abbreviation": "LPOm", 
+        "old name": "nucleus magnocellularis lobi parolfactoriae", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=402&proc=arer"
+    }, 
+    "403": {
+        "abbreviation": "Ac", 
+        "english name": "Nucleus accumbens", 
+        "id": 403, 
+        "name": "nucleus accumbens", 
+        "old name": "Lobus parolfactorius rostralis pars ventromedialis", 
+        "superregion": "2", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=403&proc=arer"
+    }, 
+    "404": {
+        "abbreviation": "NSTM", 
+        "english name": "Medial part of the bed nucleus of the stria terminalis (BSTM)", 
+        "id": 404, 
+        "name": "Nucleus striae terminalis  medialis", 
+        "superregion": "105", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=404&proc=arer"
+    }, 
+    "405": {
+        "abbreviation": "NBM", 
+        "english name": "Basal magnocellular  cholinergic nucleus", 
+        "id": 405, 
+        "name": "nucleus basalis magnocellularis", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=405&proc=arer"
+    }, 
+    "406": {
+        "abbreviation": "NDB", 
+        "english name": "Nucleus of the  diagonal band", 
+        "id": 406, 
+        "name": "Nucleus diagonalis  Brocae", 
+        "old abbreviation": "FDB", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=406&proc=arer"
+    }, 
+    "407": {
+        "abbreviation": "MO", 
+        "english name": "Oval nucleus of  mesopallium", 
+        "id": 407, 
+        "name": "Nucleus ovalis  mesopallii", 
+        "old abbreviation": "Hvo", 
+        "old name": "nucleus ovalis of HV", 
+        "superregion": "6", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=407&proc=arer"
+    }, 
+    "408": {
+        "abbreviation": "NAO", 
+        "english name": "Oval nucleus of the  anterior nidopallium", 
+        "id": 408, 
+        "name": "Nucleus ovalis nidopallii  anterioris", 
+        "old abbreviation": "Nao", 
+        "old name": "Oval nucleus of the anterior  neostriatum in parrots", 
+        "subregion(s)": [
+            "409"
+        ], 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=408&proc=arer"
+    }, 
+    "409": {
+        "abbreviation": "NAOM", 
+        "english name": "Medial part of the oval  nucleus of the anterior  nidopallium", 
+        "id": 409, 
+        "name": "Nucleus ovalis nidopallii  anterioris, pars  medialis", 
+        "old abbreviation": "Naom", 
+        "old name": "Medial oval nucleus of the  anterior neostriatum in  parrots", 
+        "superregion": "408", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=409&proc=arer"
+    }, 
+    "41": {
+        "abbreviation": "pretectum", 
+        "id": 41, 
+        "name": "pretectum", 
+        "subregion(s)": [
+            "66", 
+            "171", 
+            "60", 
+            "349", 
+            "350", 
+            "63", 
+            "172"
+        ], 
+        "superregion": "13", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=41&proc=arer"
+    }, 
+    "410": {
+        "abbreviation": "NLC", 
+        "english name": "Central nucleus of the  lateral nidopallium", 
+        "id": 410, 
+        "name": "Nucleus centralis  nidopallii lateralis", 
+        "old abbreviation": "NLc", 
+        "old name": "Central nucleus of the  lateral neostriatum in  parrots", 
+        "superregion": "108", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=410&proc=arer"
+    }, 
+    "411": {
+        "abbreviation": "AAC", 
+        "english name": "Central nucleus of  anterior arcopallium", 
+        "id": 411, 
+        "name": "Nucleus centralis  arcopallii anterioris", 
+        "old abbreviation": "Aac", 
+        "old name": "Central nucleus of anterior archistriatum in  parrots", 
+        "superregion": "233", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=411&proc=arer"
+    }, 
+    "412": {
+        "abbreviation": "SpA", 
+        "english name": "Subpallial amygdaloid  area", 
+        "id": 412, 
+        "name": "Area subpallialis  amygdalae", 
+        "old abbreviation": "vPA", 
+        "old name": "paleostriatum augmentatum pars ventrale", 
+        "superregion": "8", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=412&proc=arer"
+    }, 
+    "43": {
+        "abbreviation": "habenula", 
+        "id": 43, 
+        "subregion(s)": [
+            "176", 
+            "175", 
+            "306", 
+            "305"
+        ], 
+        "superregion": "40", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=43&proc=arer"
+    }, 
+    "44": {
+        "abbreviation": "dorsal thalamus", 
+        "id": 44, 
+        "subregion(s)": [
+            "84", 
+            "85", 
+            "70", 
+            "73", 
+            "72", 
+            "137", 
+            "69", 
+            "366", 
+            "274", 
+            "308", 
+            "68", 
+            "107", 
+            "294", 
+            "179", 
+            "234", 
+            "117", 
+            "300", 
+            "346", 
+            "315"
+        ], 
+        "superregion": "38", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=44&proc=arer"
+    }, 
+    "45": {
+        "abbreviation": "ventral thalamus", 
+        "id": 45, 
+        "subregion(s)": [
+            "157", 
+            "182", 
+            "49", 
+            "303", 
+            "48"
+        ], 
+        "superregion": "38", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=45&proc=arer"
+    }, 
+    "48": {
+        "abbreviation": "VLT", 
+        "id": 48, 
+        "name": "nucleus ventrolateralis thalami", 
+        "superregion": "45", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=48&proc=arer"
+    }, 
+    "49": {
+        "abbreviation": "GL", 
+        "id": 49, 
+        "name": "nucleus geniculatus lateralis", 
+        "subregion(s)": [
+            "51", 
+            "50", 
+            "228"
+        ], 
+        "superregion": "45", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=49&proc=arer"
+    }, 
+    "5": {
+        "abbreviation": "IMM", 
+        "english name": "Intermediate medial  mesopallium", 
+        "functional keyword(s)": [
+            "imprinting", 
+            "passive avoidance learning", 
+            "taste aversion learning"
+        ], 
+        "id": 5, 
+        "imprinting": [
+            "imprinting", 
+            "passive avoidance learning", 
+            "taste aversion learning"
+        ], 
+        "name": "Mesopallium  intermediomediale", 
+        "old abbreviation": "IMHV", 
+        "old name": "intermedier-medial hyperstriatum ventrale", 
+        "superregion": "6", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=5&proc=arer"
+    }, 
+    "50": {
+        "abbreviation": "GLv", 
+        "id": 50, 
+        "name": "nucleus geniculatus lateralis pars ventralis", 
+        "superregion": "49", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=50&proc=arer"
+    }, 
+    "51": {
+        "abbreviation": "GLd", 
+        "functional keyword(s)": [
+            "lemnothalamic (thalamofugal) pathway", 
+            "visual pathways"
+        ], 
+        "id": 51, 
+        "lemnothalamic (thalamofugal) pathway": [
+            "lemnothalamic (thalamofugal) pathway", 
+            "visual pathways"
+        ], 
+        "name": "nucleus geniculatus lateralis pars dorsalis principalis", 
+        "other name(s)": [
+            "OPT- nucleus opticus principalis thalami"
+        ], 
+        "subregion(s)": [
+            "80", 
+            "101", 
+            "210", 
+            "230", 
+            "229"
+        ], 
+        "superregion": "49", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=51&proc=arer"
+    }, 
+    "52": {
+        "abbreviation": "pallium", 
+        "id": 52, 
+        "name": "pallium", 
+        "subregion(s)": [
+            "1", 
+            "118", 
+            "55", 
+            "59", 
+            "56", 
+            "54", 
+            "373"
+        ], 
+        "superregion": "7", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=52&proc=arer"
+    }, 
+    "53": {
+        "abbreviation": "subpallium", 
+        "id": 53, 
+        "subregion(s)": [
+            "58"
+        ], 
+        "superregion": "7", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=53&proc=arer"
+    }, 
+    "54": {
+        "abbreviation": "medial pallium", 
+        "id": 54, 
+        "name": "limbic pallium", 
+        "subregion(s)": [
+            "317"
+        ], 
+        "superregion": "52", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=54&proc=arer"
+    }, 
+    "55": {
+        "abbreviation": "dorsal pallium", 
+        "id": 55, 
+        "subregion(s)": [
+            "110"
+        ], 
+        "superregion": "52", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=55&proc=arer"
+    }, 
+    "56": {
+        "abbreviation": "lateral pallium", 
+        "id": 56, 
+        "name": "olfactory pallium", 
+        "subregion(s)": [
+            "124"
+        ], 
+        "superregion": "52", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=56&proc=arer"
+    }, 
+    "57": {
+        "abbreviation": "striatum", 
+        "id": 57, 
+        "subregion(s)": [
+            "103", 
+            "3", 
+            "104", 
+            "105"
+        ], 
+        "url": "http://www.behav.org/abcd/abcd.php?id=57&proc=arer"
+    }, 
+    "58": {
+        "abbreviation": "septum", 
+        "id": 58, 
+        "subregion(s)": [
+            "262", 
+            "255", 
+            "143", 
+            "144"
+        ], 
+        "superregion": "53", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=58&proc=arer"
+    }, 
+    "59": {
+        "abbreviation": "DVR", 
+        "id": 59, 
+        "name": "dorsal ventricular ridge", 
+        "subregion(s)": [
+            "6", 
+            "108", 
+            "347"
+        ], 
+        "superregion": "52", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=59&proc=arer"
+    }, 
+    "6": {
+        "abbreviation": "M", 
+        "english name": "Mesopallium", 
+        "id": 6, 
+        "name": "Mesopallium", 
+        "old abbreviation": "HV", 
+        "old name": "hyperstriatum ventrale", 
+        "subregion(s)": [
+            "310", 
+            "345", 
+            "407", 
+            "251", 
+            "5"
+        ], 
+        "superregion": "59", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=6&proc=arer"
+    }, 
+    "60": {
+        "abbreviation": "LM", 
+        "id": 60, 
+        "name": "nucleus lentiformis mesencephali", 
+        "proposed mammalian homologue": "nucleus tracti optici (NOT)", 
+        "subregion(s)": [
+            "323", 
+            "322", 
+            "61", 
+            "62"
+        ], 
+        "superregion": "41", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=60&proc=arer"
+    }, 
+    "61": {
+        "abbreviation": "LMmc", 
+        "id": 61, 
+        "name": "nucleus lentiformis mesencephali pars magnocellularis", 
+        "superregion": "60", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=61&proc=arer"
+    }, 
+    "62": {
+        "abbreviation": "LMpc", 
+        "id": 62, 
+        "name": "nucleus lentiformis mesencephali pars parvocellularis", 
+        "superregion": "60", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=62&proc=arer"
+    }, 
+    "63": {
+        "abbreviation": "PT", 
+        "id": 63, 
+        "name": "nucleus pretectalis", 
+        "subregion(s)": [
+            "64", 
+            "65"
+        ], 
+        "superregion": "41", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=63&proc=arer"
+    }, 
+    "64": {
+        "abbreviation": "PTD", 
+        "id": 64, 
+        "name": "nucleus pretectalis diffusis", 
+        "superregion": "63", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=64&proc=arer"
+    }, 
+    "65": {
+        "abbreviation": "PTM", 
+        "id": 65, 
+        "name": "nucleus pretectalis medialis", 
+        "superregion": "63", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=65&proc=arer"
+    }, 
+    "66": {
+        "abbreviation": "AP", 
+        "id": 66, 
+        "name": "area pretectalis", 
+        "superregion": "41", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=66&proc=arer"
+    }, 
+    "67": {
+        "abbreviation": "epiphysis", 
+        "id": 67, 
+        "superregion": "40", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=67&proc=arer"
+    }, 
+    "68": {
+        "abbreviation": "Rt", 
+        "collothalamic (tectofugal) visual pathway": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "functional keyword(s)": [
+            "Collothalamic (tectofugal) visual pathway"
+        ], 
+        "id": 68, 
+        "name": "nucleus rotundus", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=68&proc=arer"
+    }, 
+    "69": {
+        "abbreviation": "Ov", 
+        "auditory pathways": [
+            "auditory pathways"
+        ], 
+        "functional keyword(s)": [
+            "auditory pathways"
+        ], 
+        "id": 69, 
+        "name": "nucleus ovoidalis", 
+        "proposed mammalian homologue": "nucleus geniculatus medialis", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=69&proc=arer"
+    }, 
+    "7": {
+        "abbreviation": "TE", 
+        "id": 7, 
+        "name": "telencephalon", 
+        "subregion(s)": [
+            "249", 
+            "52", 
+            "53", 
+            "7"
+        ], 
+        "superregion": "7", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=7&proc=arer"
+    }, 
+    "70": {
+        "abbreviation": "DLP", 
+        "id": 70, 
+        "name": "nucleus dorsolateralis posterior thalami", 
+        "subregion(s)": [
+            "178", 
+            "313"
+        ], 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=70&proc=arer"
+    }, 
+    "72": {
+        "abbreviation": "DMP", 
+        "id": 72, 
+        "name": "nucleus dorsomedialis posterior thalami", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=72&proc=arer"
+    }, 
+    "73": {
+        "abbreviation": "DMA", 
+        "id": 73, 
+        "name": "nucleus dorsomedialis anterior thalami", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=73&proc=arer"
+    }, 
+    "8": {
+        "abbreviation": "StL", 
+        "english name": "Lateral striatum", 
+        "id": 8, 
+        "name": "Striatum laterale", 
+        "old abbreviation": "PA", 
+        "old name": "paleostriatum augmentatum", 
+        "proposed mammalian homologue": "nucleus caudatus and putamen", 
+        "subregion(s)": [
+            "377", 
+            "378", 
+            "379", 
+            "412"
+        ], 
+        "superregion": "3", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=8&proc=arer"
+    }, 
+    "80": {
+        "abbreviation": "DLA", 
+        "id": 80, 
+        "name": "nucleus dorsolateralis anterior thalami", 
+        "subregion(s)": [
+            "281", 
+            "83", 
+            "81", 
+            "192"
+        ], 
+        "superregion": "51", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=80&proc=arer"
+    }, 
+    "81": {
+        "abbreviation": "DLL", 
+        "id": 81, 
+        "name": "nucleus dorsolateralis anterior thalami pars lateralis", 
+        "superregion": "80", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=81&proc=arer"
+    }, 
+    "83": {
+        "abbreviation": "DLAmc", 
+        "id": 83, 
+        "name": "nucleus dorsolateralis anterior thalami pars magnocellularis", 
+        "superregion": "80", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=83&proc=arer"
+    }, 
+    "84": {
+        "abbreviation": "DIP", 
+        "id": 84, 
+        "name": "nucleus dorsointermedius posterior", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=84&proc=arer"
+    }, 
+    "85": {
+        "abbreviation": "DIVA", 
+        "id": 85, 
+        "name": "nucleus dorsalis intermedius ventralis anterior thalami", 
+        "superregion": "44", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=85&proc=arer"
+    }, 
+    "86": {
+        "abbreviation": "AM", 
+        "id": 86, 
+        "name": "nucleus anterior medialis hypothalami", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=86&proc=arer"
+    }, 
+    "87": {
+        "abbreviation": "MPO", 
+        "id": 87, 
+        "name": "nucleus magnocellularis preopticus", 
+        "subregion(s)": [
+            "88", 
+            "90", 
+            "91"
+        ], 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=87&proc=arer"
+    }, 
+    "88": {
+        "abbreviation": "MPOd", 
+        "id": 88, 
+        "name": "nucleus magnocellularis preopticus pars dorsalis", 
+        "superregion": "87", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=88&proc=arer"
+    }, 
+    "9": {
+        "abbreviation": "GP", 
+        "english name": "Globus pallidus", 
+        "id": 9, 
+        "name": "Globus pallidus", 
+        "old abbreviation": "PP", 
+        "old name": "paleostriatum primitivum", 
+        "proposed mammalian homologue": "globus pallidus externus", 
+        "subregion(s)": [
+            "106"
+        ], 
+        "superregion": "103", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=9&proc=arer"
+    }, 
+    "90": {
+        "abbreviation": "MPOm", 
+        "id": 90, 
+        "name": "nucleus magnocellularis preopticus pars medialis", 
+        "superregion": "87", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=90&proc=arer"
+    }, 
+    "91": {
+        "abbreviation": "MPOv", 
+        "id": 91, 
+        "name": "nucleus magnocellularis preopticus pars ventralis", 
+        "superregion": "87", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=91&proc=arer"
+    }, 
+    "92": {
+        "abbreviation": "Soe", 
+        "id": 92, 
+        "name": "nucleus supraopticus pars externus", 
+        "superregion": "287", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=92&proc=arer"
+    }, 
+    "93": {
+        "abbreviation": "Sov", 
+        "id": 93, 
+        "name": "nucleus supraopticus pars ventralis", 
+        "superregion": "287", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=93&proc=arer"
+    }, 
+    "94": {
+        "abbreviation": "SCN", 
+        "id": 94, 
+        "name": "nucleus suprachiasmaticus", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=94&proc=arer"
+    }, 
+    "95": {
+        "abbreviation": "PVM", 
+        "id": 95, 
+        "name": "nucleus periventricularis magnocellularis", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=95&proc=arer"
+    }, 
+    "96": {
+        "abbreviation": "ML", 
+        "id": 96, 
+        "name": "nucleus mamillaris lateralis", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=96&proc=arer"
+    }, 
+    "97": {
+        "abbreviation": "MM", 
+        "id": 97, 
+        "name": "nucleus mamillaris medialis", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=97&proc=arer"
+    }, 
+    "98": {
+        "abbreviation": "AHP", 
+        "id": 98, 
+        "name": "area hypothalami posterioris", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=98&proc=arer"
+    }, 
+    "99": {
+        "abbreviation": "PLH", 
+        "id": 99, 
+        "name": "nucleus lateralis hypothalami posterioris", 
+        "superregion": "39", 
+        "url": "http://www.behav.org/abcd/abcd.php?id=99&proc=arer"
+    }
+}
