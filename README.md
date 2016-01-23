@@ -12,7 +12,14 @@ Much of the work in compiling the "state of the field" had been done already (se
 
 We contacted the grad student who had built the database, but they had moved on. Emails to the PI were not returned. So we decided to scrape the ABCD for avian brain regions and connections.
 
-And it's a good thing we did, because sometime between then and Jan 2016, behav.org went offline.
+And it's a good thing we did, because the old ABCD hasn't been online since October 2014: http://web.archive.org/web/20141019130131/http://www.behav.org/abcd/abcd.php
+
+So here are the scripts I used to scrape the database and the resulting data in JSON form.
+
+Enjoy!
+
+Justin Kiggins
+@neuromusic
 
 # Scripts
 
